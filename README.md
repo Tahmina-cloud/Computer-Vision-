@@ -1,1 +1,1 @@
-https://colab.research.google.com/drive/1ISXOSaKZGXBxK6VJfdJMNwCWZlMEBjEp?authuser=1<img width="468" height="67" alt="image" src="https://github.com/user-attachments/assets/f7e34a29-f8af-47b6-9fa5-87ef8416ed9b" />
+Motion magnification:  https://colab.research.google.com/drive/1ISXOSaKZGXBxK6VJfdJMNwCWZlMEBjEp?authuser=1<img width="468" height="67" alt="image" src="https://github.com/user-attachments/assets/f7e34a29-f8af-47b6-9fa5-87ef8416ed9b" />
